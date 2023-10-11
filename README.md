@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B3B3B3&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome+to+my+Github+!!" alt="Typing SVG"/>
+</p>
+
+
+
+
 <!--
 **YannRepo/YannRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
