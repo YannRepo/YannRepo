@@ -26,14 +26,22 @@ Tools: [IDEs, version control systems, etc.]
 ### 🌟 Projects
 | Project link | Description |          Languages          |
 | :- | :-: | :-: |
-| <a href="link">Transcendence</a> | A web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game | <img src="https://img.shields.io/badge/Node.js-lightblue?logo=node.js"> <img src="https://img.shields.io/badge/Svelte-lightblue?logo=svelte"> <img src="https://img.shields.io/badge/PostgreSQL-lightblue?logo=postgresql"> |
-| <a href="link">Cub3D</a> | A game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom | <img src="https://img.shields.io/badge/C-lightblue?logo=C"> |
-| <a href="link">Minishell</a> | The reproduction of a bash programmed in C where it is possible to write commands and execute them | <img src="https://img.shields.io/badge/C-lightblue?logo=C"> |
-| <a href="link">Containers</a> | The reimplementation of different C++ Containers library (Vector, Stack, Map, Set) | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
-| <a href="link">Piscine cpp</a> | A series of small projects targeting, each one targeting a specific C++ concept | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
-| <a href="link">IRC</a> | A chat server programmed in C++ and based on the IRC protocal | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
+| <a href="link">Transcendence</a> | A web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game | <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Svelte-c8640a?style=for-the-badge&logo=svelte&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> |
+| <a href="link">Cub3D</a> | A game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom | <img src="https://custom-icon-badges.demolab.com/badge/C-283593.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"> |
+| <a href="link">Minishell</a> | The reproduction of a bash programmed in C where it is possible to write commands and execute them | <img src="https://custom-icon-badges.demolab.com/badge/C-283593.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"> |
+| <a href="link">Containers</a> | The reimplementation of different C++ Containers library (Vector, Stack, Map, Set) | <img src="https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| <a href="link">Piscine cpp</a> | A series of small projects targeting, each one targeting a specific C++ concept | <img src="https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| <a href="link">IRC</a> | A chat server programmed in C++ and based on the IRC protocal | <img src="https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| <a href="link">tbd</a> | tbd | <img src="https://img.shields.io/badge/Python-366994.svg?style=for-the-badge&logo=python&logoColor=white"> |
 
-https://img.shields.io/badge/Python-lightblue?logo=python">
+
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+
+
+https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
 <img alt="python"     src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
@@ -60,6 +68,14 @@ You can learn more about me or reach out to me through [LinkedIn](www.linkedin.c
 
 Happy coding! ✨
 
+| Project link | Description |          Languages          |
+| :- | :-: | :-: |
+| <a href="link">Transcendence</a> | A web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game | <img src="https://img.shields.io/badge/Node.js-lightblue?logo=node.js"> <img src="https://img.shields.io/badge/Svelte-lightblue?logo=svelte"> <img src="https://img.shields.io/badge/PostgreSQL-lightblue?logo=postgresql"> |
+| <a href="link">Cub3D</a> | A game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom | <img src="https://img.shields.io/badge/C-lightblue?logo=C"> |
+| <a href="link">Minishell</a> | The reproduction of a bash programmed in C where it is possible to write commands and execute them | <img src="https://img.shields.io/badge/C-lightblue?logo=C"> |
+| <a href="link">Containers</a> | The reimplementation of different C++ Containers library (Vector, Stack, Map, Set) | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
+| <a href="link">Piscine cpp</a> | A series of small projects targeting, each one targeting a specific C++ concept | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
+| <a href="link">IRC</a> | A chat server programmed in C++ and based on the IRC protocal | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
 
 <!--
 **YannRepo/YannRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
