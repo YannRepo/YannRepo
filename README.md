@@ -24,13 +24,28 @@ Frameworks & Libraries: [Mention any frameworks or libraries you specialize in]
 Databases: [Databases you have experience with, e.g., MySQL, MongoDB]
 Tools: [IDEs, version control systems, etc.]
 ### 🌟 Projects
+| Project link | Description |          Languages          |
+| :- | :-: | :-: |
+| <a href="link">Transcendence</a> | A web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game | <img src="https://img.shields.io/badge/Node.js-lightblue?logo=node.js"> <img src="https://img.shields.io/badge/Svelte-lightblue?logo=svelte"> <img src="https://img.shields.io/badge/PostgreSQL-lightblue?logo=postgresql"> |
+| <a href="link">Cub3D</a> | A game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom | <img src="https://img.shields.io/badge/C-lightblue?logo=C"> |
+| <a href="link">Minishell</a> | The reproduction of a bash programmed in C where it is possible to write commands and execute them | <img src="https://img.shields.io/badge/C-lightblue?logo=C"> |
+| <a href="link">Containers</a> | The reimplementation of different C++ Containers library (Vector, Stack, Map, Set) | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
+| <a href="link">Piscine cpp</a> | A series of small projects targeting, each one targeting a specific C++ concept | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
+| <a href="link">IRC</a> | A chat server programmed in C++ and based on the IRC protocal | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
+
+https://img.shields.io/badge/Python-lightblue?logo=python">
+
+<img alt="python"     src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+<img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+<br />
+
 If you want to have a look on my work, I advise to check theses projects first :
-- Transcendence : a web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game
-- Cub3D : a game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom
-- Minishell : the reproduction of a bash programmed in C where it is possible to write commands and execute them
-- Containers : the reimplementation of different C++ Containers library (Vector, Stack, Map, Set)
-- Piscine cpp : a series of small projects targeting, each one targeting a specific C++ concept 
-- IRC : a chat server programmed in C++ and based on the IRC protocal
+- Transcendence : A web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game
+- Cub3D : A game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom
+- Minishell : The reproduction of a bash programmed in C where it is possible to write commands and execute them
+- Containers : The reimplementation of different C++ Containers library (Vector, Stack, Map, Set)
+- Piscine cpp : A series of small projects targeting, each one targeting a specific C++ concept 
+- IRC : A chat server programmed in C++ and based on the IRC protocal
   
 
 
