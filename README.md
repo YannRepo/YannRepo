@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B3B3B3&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome+to+my+Github+!!" alt="Typing SVG"/>
 </p>
 
-My name is Yann, I'm software Engineer 
+You will find here all my projects, especially those done at the school 42. Each project has its own readme and instructions to be launched.
 
 
 
@@ -24,9 +24,14 @@ Frameworks & Libraries: [Mention any frameworks or libraries you specialize in]
 Databases: [Databases you have experience with, e.g., MySQL, MongoDB]
 Tools: [IDEs, version control systems, etc.]
 ### 🌟 Projects
-You can find on my github the different projects that I made. Here are some of them :
-- project 1
-- project 2
+If you want to have a look on my work, I advise to check theses projects first :
+- Transcendence : a web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game
+- Cub3D : a game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom
+- Minishell : the reproduction of a bash programmed in C where it is possible to write commands and execute them
+- Containers : the reimplementation of different C++ Containers library (Vector, Stack, Map, Set)
+- Piscine cpp : a series of small projects targeting, each one targeting a specific C++ concept 
+- IRC : a chat server programmed in C++ and based on the IRC protocal
+  
 
 
 
