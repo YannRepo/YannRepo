@@ -2,92 +2,20 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B3B3B3&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome+to+my+Github+!!" alt="Typing SVG"/>
 </p>
 
-You will find here all my projects, especially those done at the school 42. Each project has its own readme and instructions to be launched.
+You will find here all my projects, especially those done at the school 42. Each project has its own readme and instructions to be launched. Feel free to explore my repositories.
 
-
-
-## 🚀 Technologies & Tools
-My favorite languages are Python and C++. 
-Languages
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> 
-
-
-Frameworks & Libraries: [Mention any frameworks or libraries you specialize in]
-Databases: [Databases you have experience with, e.g., MySQL, MongoDB]
-Tools: [IDEs, version control systems, etc.]
 ### 🌟 Projects
-| Project link | Description |          Languages          |
+| Project link | Description | Languages |
 | :- | :-: | :-: |
-| <a href="link">Transcendence</a> | A web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game | <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Svelte-c8640a?style=for-the-badge&logo=svelte&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> |
-| <a href="link">Cub3D</a> | A game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom | <img src="https://custom-icon-badges.demolab.com/badge/C-283593.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"> |
-| <a href="link">Minishell</a> | The reproduction of a bash programmed in C where it is possible to write commands and execute them | <img src="https://custom-icon-badges.demolab.com/badge/C-283593.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"> |
+| <a href="link">Transcendence</a> | A web site where you can chat, play a multiplayer Pong Game and connect with 2FA to access to yout profile | <img src="https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Svelte-c8640a?style=for-the-badge&logo=svelte&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> |
+| <a href="link">Cub3D</a> | A 3D game engine where you can play in a style of the first FPS games like Wolfenstein or Doom | <img src="https://custom-icon-badges.demolab.com/badge/C-283593.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"> |
+| <a href="link">Minishell</a> | The reproduction of a bash where it is possible to write commands and execute them | <img src="https://custom-icon-badges.demolab.com/badge/C-283593.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"> |
 | <a href="link">Containers</a> | The reimplementation of different C++ Containers library (Vector, Stack, Map, Set) | <img src="https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
-| <a href="link">Piscine cpp</a> | A series of small projects targeting, each one targeting a specific C++ concept | <img src="https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
-| <a href="link">IRC</a> | A chat server programmed in C++ and based on the IRC protocal | <img src="https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
-| <a href="link">tbd</a> | tbd | <img src="https://img.shields.io/badge/Python-366994.svg?style=for-the-badge&logo=python&logoColor=white"> |
-
-
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-
-
-https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-
-<img alt="python"     src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-<img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-<br />
-
-If you want to have a look on my work, I advise to check theses projects first :
-- Transcendence : A web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game
-- Cub3D : A game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom
-- Minishell : The reproduction of a bash programmed in C where it is possible to write commands and execute them
-- Containers : The reimplementation of different C++ Containers library (Vector, Stack, Map, Set)
-- Piscine cpp : A series of small projects targeting, each one targeting a specific C++ concept 
-- IRC : A chat server programmed in C++ and based on the IRC protocal
-  
-
-
-
+| <a href="link">Piscine cpp</a> | A series of small projects, each one targeting a specific C++ concept | <img src="https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| <a href="link">IRC</a> | A chat server based on the IRC protocal | <img src="https://img.shields.io/badge/C%2B%2B-004283?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| <a href="link">CaptureCourbe</a> | A software with graphical interface to pick points on an image (a graph for example) et get the coordinates in a CSV file | <img src="https://img.shields.io/badge/Python-366994.svg?style=for-the-badge&logo=python&logoColor=white"> |
 
 ## 📫 Let's Connect !
-I'm always open to connect with fellow enthusiasts, developers, designers, and innovators. Feel free to explore my repositories or contact me for discussions.
-You can learn more about me or reach out to me through [LinkedIn](www.linkedin.com/in/yann-bellot-39531baa)
-<p align="left"> 
-<a href="https://www.linkedin.com/in/yann-bellot-39531baa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+I'm always open to connect with fellow enthusiasts, developers, designers, and innovators.
+You can learn more about me or contact me through [LinkedIn](https://www.linkedin.com/in/yann-bellot-39531baa).
 
-
-Happy coding! ✨
-
-| Project link | Description |          Languages          |
-| :- | :-: | :-: |
-| <a href="link">Transcendence</a> | A web project using NestJS, Svelte and PostgreSQL to run a web site where you can chat, play a multiplayer Pong Game | <img src="https://img.shields.io/badge/Node.js-lightblue?logo=node.js"> <img src="https://img.shields.io/badge/Svelte-lightblue?logo=svelte"> <img src="https://img.shields.io/badge/PostgreSQL-lightblue?logo=postgresql"> |
-| <a href="link">Cub3D</a> | A game 3D engine programmed in C where you can play in a style of the first FPS games like Wolfenstein or Doom | <img src="https://img.shields.io/badge/C-lightblue?logo=C"> |
-| <a href="link">Minishell</a> | The reproduction of a bash programmed in C where it is possible to write commands and execute them | <img src="https://img.shields.io/badge/C-lightblue?logo=C"> |
-| <a href="link">Containers</a> | The reimplementation of different C++ Containers library (Vector, Stack, Map, Set) | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
-| <a href="link">Piscine cpp</a> | A series of small projects targeting, each one targeting a specific C++ concept | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
-| <a href="link">IRC</a> | A chat server programmed in C++ and based on the IRC protocal | <img src="https://img.shields.io/badge/C++-lightblue?logo=cplusplus"> |
-
-<!--
-**YannRepo/YannRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
