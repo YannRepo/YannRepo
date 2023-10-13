@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B3B3B3&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome+to+my+Github+!!" alt="Typing SVG"/>
 </p>
 
-You will find here some of my projects, especially those done at the school 42. Each project has its own readme and instructions to be launched. Feel free to explore my repositories.
+You will find here some of my projects, especially those done at the school 42. Each project has its own readme and instructions to be launched. Feel free to explore !!
 
 ### 🌟 Projects
 | Project link | Description | Languages |
